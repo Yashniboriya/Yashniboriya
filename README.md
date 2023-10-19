@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashniboriya&label=Profile%20views&color=0e75b6&style=flat" alt="yashniboriya" /> </p>
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
+- 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-yashniboriya.vercel.app/](https://portfolio-yashniboriya.vercel.app/)
 
